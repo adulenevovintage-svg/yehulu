@@ -10,7 +10,7 @@ const Doctors = () => {
       name: t('doctors.d1.name'),
       role: t('doctors.d1.role'),
       specialty: t('doctors.d1.specialty'),
-      image: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=800",
+      image: "https://pub-1407f82391df4ab1951418d04be76914.r2.dev/uploads/222eb9a1-02f1-4ddd-91a0-5b2508d2ebcc.webp",
       bio: t('doctors.d1.desc')
     },
     {
