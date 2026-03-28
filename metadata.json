@@ -1,0 +1,7 @@
+{
+  "name": "YEHULESHET SPECIALITY CLINIC",
+  "description": "Advanced neurology, nerve care, and neurosurgery clinic featuring state-of-the-art EEG technology.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
